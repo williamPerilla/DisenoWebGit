@@ -1,3 +1,3 @@
 # DisenoWebGit
 diseño web
-web/Index.html
+git ini web/Index.html
